@@ -1,0 +1,70 @@
+ [
+    {
+        "id" : 1,
+        "name" : "Story Book",
+        "title" : "It is best story teller",
+        "price" : 0,
+        "category" : "Free",
+        "image" : "https://img.freepik.com/free-vector/magical-forest-storybook-adventure_1308-171935.jpg?ga=GA1.1.1883788560.1720336551&semt=ais_hybrid"
+    },
+    
+    {
+        "id" : 2,
+        "name" : "Comedy Book",
+        "title" : "The book brings you a laugh of lifetime",
+        "price" : 20,
+        "category": "Free",
+        "image" : "https://img.freepik.com/free-vector/bear-circus-show_1308-32767.jpg?semt=ais_hybrid"
+    },
+
+    
+    {
+        "id": 3,
+        "name": "Science Fiction Book",
+        "title": "Explore the future with mind-bending sci-fi stories",
+        "price": 15,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/space-adventure-mars_1308-172105.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 4,
+        "name": "History Book",
+        "title": "Dive deep into the past with engaging historical tales",
+        "price": 25,
+        "category": "History",
+        "image": "https://img.freepik.com/free-vector/tobacco-realistic_1284-25376.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 5,
+        "name": "Adventure Book",
+        "title": "An epic adventure awaits with thrilling challenges",
+        "price": 30,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/children-exploring-open-book_1308-171938.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 6,
+        "name": "Mystery Book",
+        "title": "Solve mind-twisting mysteries that keep you guessing",
+        "price": 40,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/3d-open-book-with-magic-lights_1284-34848.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 7,
+        "name": "Horror Book",
+        "title": "Uncover terrifying tales that will haunt you",
+        "price": 50,
+        "category": "Horror",
+        "image": "https://img.freepik.com/premium-photo/mysterious-horror-suspense-thriller-book-cover-design_1004054-5723.jpg?semt=ais_hybrid"
+    },
+    {
+        "id": 8,
+        "name": "Fantasy Book",
+        "title": "Enter magical realms full of enchantment and adventure",
+        "price": 35,
+        "category": "Fantasy",
+        "image": "https://img.freepik.com/premium-photo/mysterious-horror-suspense-thriller-book-cover-design_1004054-5723.jpg?semt=ais_hybrid"
+    }
+]
+
